@@ -1,5 +1,4 @@
-# timer-AbA
-<!DOCTYPE html>
+# Abschlusspruefungs-Timer
 <html lang="de">
 <head>
   <meta charset="UTF-8">
